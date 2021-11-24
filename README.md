@@ -12,3 +12,5 @@ There are several features here in this project and those are listing below:
 >2 Types of users( student and admin)
 
 ## Some Screenshots
+
+## Functional Requirements
