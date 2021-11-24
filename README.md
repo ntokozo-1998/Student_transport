@@ -25,7 +25,11 @@ There are several features here in this project and those are listing below:
 
 ## Current Situation
 
-1.
+Covid tried to rescue the pandemic that occurred almost everyday at the
+bus terminal of some of the Pretoria Campuses. Usually, there is one bus
+from a certain campus to another campus for a given period of time.
+At times students are writing and students will be waiting for longer period
+or end up fighting to get space on the available bus.
 
 ## Challenges
 
