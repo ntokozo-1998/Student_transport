@@ -14,3 +14,11 @@ There are several features here in this project and those are listing below:
 ## Some Screenshots
 
 ## Functional Requirements
+
+1.
+
+2.
+
+3.
+
+4.
