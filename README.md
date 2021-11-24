@@ -67,6 +67,7 @@ the above solution.
 ADVANTAGES
 
 >Less student on bus terminal
+>
 >No longer wait for the longest of time
 
 DISADVANTAGES
