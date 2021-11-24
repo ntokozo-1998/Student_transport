@@ -47,9 +47,13 @@ the processes.
 
 1.
 
-## Proposed Solutions
+## Proposed Solution
 
-1.
+As Junior Developer,
+you are required to come with
+an innovative solution to solve
+the above solution.
+
 
 ## PROJECT PLAN
 
