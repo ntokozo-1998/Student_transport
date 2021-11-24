@@ -14,6 +14,8 @@ An online Bus Booking and Management System implemented using PHP, MySQL and HTM
 
 ## Some Screenshots
 
+![Screenshot (36)](https://user-images.githubusercontent.com/94315784/143317435-a8bd5cbb-1115-4aff-b89e-a7c5122b61c7.png)
+
 ## Functional Requirements
 
 1.
