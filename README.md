@@ -10,3 +10,5 @@ There are several features here in this project and those are listing below:
 > Student and admin login
 > 
 >2 Types of users( student and admin)
+
+## Some Screenshots
