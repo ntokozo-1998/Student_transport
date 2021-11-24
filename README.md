@@ -31,6 +31,11 @@ There are several features here in this project and those are listing below:
 
 1.
 
-## Proposed 
+## Proposed Solutions
 
 1.
+
+## PROJECT PLAN
+
+1.
+
