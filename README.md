@@ -46,9 +46,9 @@ the processes.
 
 ## Challenges
 
-### 1.Shortage of buses – Transport management doesn’t provide enough bus to student, we have about 5 campus and each campus has various departments and each department have many students but only 1 bus per hour.
+1.Shortage of buses – Transport management doesn’t provide enough bus to student, we have about 5 campus and each campus has various departments and each department have many students but only 1 bus per hour.
 
-#### 2. Time consuming - When you want to take a bus from Pretoria bus terminal to another campus and you find that the number of the student that are allowed to enter into that bus at that time is exceeded you have to wait for another bus which it’s about an hour.
+2. Time consuming - When you want to take a bus from Pretoria bus terminal to another campus and you find that the number of the student that are allowed to enter into that bus at that time is exceeded you have to wait for another bus which it’s about an hour.
 
 ## Proposed Solution
 
@@ -60,17 +60,19 @@ the above solution.
 
 ## PROJECT PLAN
 
-1.Extra buses – I propose that TUT must increase the number of buses at least 2 buses per hour to avoid student waiting for the longest of time waiting for the bus, some they miss classes due to the shortage of buses at that time so they have to wait for an hour for another bus to come.
+#### 1.Extra buses 
 
-2.Bus should come after 30min
+I propose that TUT must increase the number of buses at least 2 buses per hour to avoid student waiting for the longest of time waiting for the bus, some they miss classes due to the shortage of buses at that time so they have to wait for an hour for another bus to come.
 
-ADVANTAGES
+#### 2.Bus should come after 30min
+
+### ADVANTAGES
 
 >Less student on bus terminal
 >
 >No longer wait for the longest of time
 
-DISADVANTAGES
+### DISADVANTAGES
 
 >Increase Petrol/diesel
 
