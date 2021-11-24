@@ -31,6 +31,18 @@ from a certain campus to another campus for a given period of time.
 At times students are writing and students will be waiting for longer period
 or end up fighting to get space on the available bus.
 
+Management of transportation do not know how many students are at the
+terminal, the expect that one bus will be enough and students results in
+exchanging words with the bus drivers.
+
+Assumptions are made based on what is happening on the scene(terminal)
+and these days we see a person responsible in monitoring which bus goes
+where and if students are are accommodated.
+
+Certain days are bad to a point where, the person wont be able to monitor
+the processes.
+
+
 ## Challenges
 
 1.
