@@ -14,8 +14,11 @@ An online Bus Booking and Management System implemented using PHP, MySQL and HTM
 
 ## Some Screenshots
 
+## LOGIN
+
 ![Screenshot (36)](https://user-images.githubusercontent.com/94315784/143317435-a8bd5cbb-1115-4aff-b89e-a7c5122b61c7.png)
 
+## SIGNUP
 
 ![Screenshot (37)](https://user-images.githubusercontent.com/94315784/143317552-7ea80417-bf73-4cbe-9133-b0ca6f033b0e.png)
 
