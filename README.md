@@ -45,7 +45,9 @@ the processes.
 
 ## Challenges
 
-1.
+1.Shortage of buses – Transport management doesn’t provide enough bus to student, we have about 5 campus and each campus has various departments and each department have many students but only 1 bus per hour.
+
+2.Time consuming - When you want to take a bus from Pretoria bus terminal to another campus and you find that the number of the student that are allowed to enter into that bus at that time is exceeded you have to wait for another bus which it’s about an hour.
 
 ## Proposed Solution
 
