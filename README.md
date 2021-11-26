@@ -26,8 +26,11 @@ An online Bus Booking and Management System implemented using PHP, MySQL and HTM
 ## Functional Requirements
 
 •	Allow creation of user profile – add and view.
+
 •	Save users profile on the database
+
 •	Maintain register user information
+
 •	Maintain request history made on the system
 
 ## Current Situation
