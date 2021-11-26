@@ -25,13 +25,10 @@ An online Bus Booking and Management System implemented using PHP, MySQL and HTM
 
 ## Functional Requirements
 
-1.
-
-2.
-
-3.
-
-4.
+•	Allow creation of user profile – add and view.
+•	Save users profile on the database
+•	Maintain register user information
+•	Maintain request history made on the system
 
 ## Current Situation
 
@@ -98,11 +95,5 @@ I propose that TUT must increase the number of buses at least 2 buses per hour t
 ### DISADVANTAGES
 
 >More buses needed
-
-## Design Phase
-
-1.
-
-2.
 
 
